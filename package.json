@@ -1,0 +1,32 @@
+{
+  "name": "less-plugin-inline-svg",
+  "version": "0.1.0",
+  "description": "A Less plugin that allows to inline SVG file and customize its CSS styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlassian/less-plugin-inline-svg.git"
+  },
+  "keywords": [
+    "less-plugin",
+    "less",
+    "svg",
+    "inline-svg",
+    "plugin"
+  ],
+  "author": "Atlassian Pty Ltd.",
+  "contributors": [
+    {
+      "name": "Maciej Adamczak",
+      "email": "madamczak@atlassian.com"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/atlassian/less-plugin-inline-svg/issues"
+  },
+  "homepage": "https://github.com/atlassian/less-plugin-inline-svg#readme"
+}
