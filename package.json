@@ -1,6 +1,6 @@
 {
   "name": "less-plugin-inline-svg",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A Less plugin that allows to inline SVG file and customize its CSS styles",
   "main": "lib/index.js",
   "scripts": {
