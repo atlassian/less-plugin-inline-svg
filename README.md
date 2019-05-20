@@ -23,7 +23,7 @@ or by [**Yarn**](https://yarnpkg.com/):
 yarn add less-plugin-inline-svg
 ```
 
-## The `lessc` command line usage
+## Example usage with Less CLI
 
 ```sh
 lessc --inline-svg file.less file.css
@@ -64,7 +64,7 @@ Usage and motivation
 ====================
 
 Let's imagine you would like to inline an SVG image file into your CSS code and use it as a background.
-Additionally you would like to pass a custom SVG styling attributes that will change ex. the **filling color** of the image.
+Additionally, you would like to pass a custom SVG styling attributes that will change ex. the **filling color** of the image.
 
 ## Example
 Sample SVG file:
