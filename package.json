@@ -35,9 +35,9 @@
     "htmlparser2": "^3.9.2"
   },
   "devDependencies": {
-    "less": "^2.5.1"
+    "less": "^3.9.0"
   },
   "peerDependencies": {
-    "less": "^2.5.1"
+    "less": "^2.7.0 || ^3.0.0"
   }
 }
